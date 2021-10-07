@@ -1,5 +1,12 @@
-# Bryan Cusme 👋👋 👨‍💻
+<h1 align="center">Hey, Soy Bryan 👋👋</h1>
+<p align="center"><strong>¡ Desarrollador web !</strong> </p>
+<p align="center">Puedes encontrarme en</p>
+<p align="center"><a href="https://www.linkedin.com/in/bryan-cusme/" target="_blank"> <img src="https://github.com/BrianC9/brianc9/blob/main/linkedin.png"><br>Linkedin</a></p>
 
+ <p align="center" >
+  <img src="https://github.com/BrianC9/brianc9/blob/main/giphybyRaz_Graphix.gif" alt="Gif by Raz_Graphix
+">
+    </p>
 <!--
 **BrianC9/brianc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
