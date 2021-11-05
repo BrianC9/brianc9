@@ -15,7 +15,11 @@
 <p align="center">Puedes contactar conmigo: </p>
 <p align="center"><a href="mailto:brianocm9@example.com"><strong>brianocm9@gmail.com</strong></a></p>
 <br><br><br>
- <p align="center" >
+<p align="center">
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=BrianC9&show_icons=true&hide_border=true&&count_private=true&theme=tokyonight&include_all_commits=true" />
+<img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianC9&layout=compact&theme=tokyonight" />
+</p>
+<p align="center" >
   <img src="https://github.com/BrianC9/brianc9/blob/main/giphybyRaz_Graphix.gif" alt="Gif by Raz_Graphix
 ">
     </p>
