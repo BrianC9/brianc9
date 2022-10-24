@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋👋, Soy Bryan </h1>.
+<h1 align="center">Hola 👋👋, Soy Bryan </h1>
 <h3 align="center"><strong>¡ Desarrollador web !</strong> </h3>
 <p align="center">Puedes encontrarme en</p>
 <p align="center"><a href="https://www.linkedin.com/in/bryan-cusme/" target="_blank"> <img src="https://github.com/BrianC9/brianc9/blob/main/linkedin.png"><br>Linkedin</a></p>
