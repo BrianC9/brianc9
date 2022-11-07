@@ -1,8 +1,8 @@
-<h1 align="center">Hola 👋👋, Soy Bryan </h1>
-<h3 align="center"><strong>¡ Desarrollador web !</strong> </h3>
-<p align="center">Puedes encontrarme en</p>
+<h1 align="center">Hi 👋👋 </h1>
+<h3 align="center"><strong>¡ Software developer</strong> </h3>
+<p align="center">Find me on:</p>
 <p align="center"><a href="https://www.linkedin.com/in/bryan-cusme/" target="_blank"> <img src="https://github.com/BrianC9/brianc9/blob/main/linkedin.png"><br>Linkedin</a></p>
-<h3 align="center">Lenguajes y herramientas:</h3>
+<h3 align="center">Tech and tools stack:</h3>
 <p align="center">  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
@@ -11,7 +11,7 @@
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/> </a>
   <a href="https://www.java.com/es/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
   </p>
-<p align="center">Puedes contactar conmigo: </p>
+<p align="center">Contact me at: </p>
 <p align="center"><a href="mailto:brianocm9@example.com"><strong>brianocm9@gmail.com</strong></a></p>
 <br><br><br>
 <p align="center">
