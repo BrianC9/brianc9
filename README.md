@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋👋 </h1>
-<h3 align="center"><strong>¡ Software developer</strong> </h3>
+<h1 align="center">Hi 👋👋 I amBryan </h1>
+<h3 align="center"><strong> Software developer</strong> </h3>
 <p align="center">Find me on:</p>
 <p align="center"><a href="https://www.linkedin.com/in/bryan-cusme/" target="_blank"> <img src="https://github.com/BrianC9/brianc9/blob/main/linkedin.png"><br>Linkedin</a></p>
 <h3 align="center">Tech and tools stack:</h3>
