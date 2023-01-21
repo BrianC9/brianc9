@@ -15,5 +15,5 @@
 <p align="center"><a href="mailto:brianocm9@example.com"><strong>brianocm9@gmail.com</strong></a></p>
 <br><br><br>
 <p align="center">
-<img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianC9&layout=compact&theme=tokyonight" />
+<img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=brianc9&show_icons=true&theme=dark" />
 </p>
