@@ -1,19 +1,43 @@
-<h1 align="center">Hi 👋👋 I am Bryan </h1>
-<h3 align="center"><strong> Software developer</strong> </h3>
-<p align="center">Find me on:</p>
-<p align="center"><a href="https://www.linkedin.com/in/bryan-cusme/" target="_blank"> <img src="https://github.com/BrianC9/brianc9/blob/main/linkedin.png"><br>Linkedin</a></p>
-<h3 align="center">Tech and tools stack:</h3>
-<p align="center">  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/> </a>
-  <a href="https://www.java.com/es/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
-  </p>
-<p align="center">Contact me at: </p>
-<p align="center"><a href="mailto:brianocm9@example.com"><strong>brianocm9@gmail.com</strong></a></p>
-<br><br><br>
-<p align="center">
-<img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=brianc9&show_icons=true&theme=dark" />
-</p>
+# Hello there 👋
+
+
+# About Me
+- I am **highly passionate about technology** with training in software development, **based in Madrid, Spain**. I have a strong **interest in clean code development practices** such as TDD and SOLID practices.
+- Additionally, **I excel in working within teams and adapting to changing work environments**. I am constantly seeking new opportunities to apply my skills and knowledge, and to continue growing as a professional in this industry.
+- I am **eager to join a company that values and fosters growth, innovation, and teamwork**, where I can make a meaningful contribution.
+
+# Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# GitHub Stats
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+      <thead>
+        <tr>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=brianc9&show_icons=true&locale=en&theme=tokyonight"
+              alt="GitHub Stats"
+            />
+          </td>
+          <td>
+            <img
+              src="https://streak-stats.demolab.com/?user=brianc9&theme=tokyonight"
+              alt="GitHub Stats"
+            />
+          </td>
+        </tr>
+      </thead>
+    </table>
+
+
+# Contact Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-cusme/)
+[![Portfolio Web](https://img.shields.io/badge/-Portfolio%20Web-blue)](https://portfolio-brianc9.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryancusmedev@gmail.com)
